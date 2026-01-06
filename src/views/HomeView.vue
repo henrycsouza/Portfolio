@@ -221,7 +221,7 @@
 <script setup>
 import { ref } from 'vue'
 import { Vue3Lottie } from 'vue3-lottie'
-import devAnimation from '@/assets/lottie/developer.json'
+import devAnimation from '../assets/lottie/developer.json'
 
 const mobileMenuOpen = ref(false)
 
